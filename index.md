@@ -3,7 +3,7 @@ title: Peça a Peça
 icon: lucide/users
 tags: galeria
 status: not-started
-hero_image: attachments/Sem título-8.jpg
+hero_image: attachments/GALERIAT.jpg
 hero_title: Peça a Peça
 hero_subtitle: Design de Produto IV · 2025-26
 hero_height: 100vh
