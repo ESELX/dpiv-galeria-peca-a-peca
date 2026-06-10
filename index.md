@@ -57,7 +57,7 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
     <h3>Nome do Produto</h3>
     <p>Nome do Aluno</p>
   </a>
-<a class="gallery-card" href="produtos/_modelo/">
+<a class="gallery-card" href="produtos/Daniel/">
     <img src="produtos/Daniel/attachments/LebreT.jpg" alt="" />
     <h3>Dois em Um</h3>
     <p>Daniel Gonçalves</p>
