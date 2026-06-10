@@ -3,7 +3,7 @@ title: Nome do Produto
 icon: lucide/box
 tags: galeria
 status: not-started
-hero_image: attachments/hero.jpg
+hero_image: attachments/LebreT.jpg
 hero_title: Peça a Peça
 hero_subtitle: Daniel Gonçalves · 2025-26
 hero_height: 80vh
