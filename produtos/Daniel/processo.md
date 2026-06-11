@@ -14,8 +14,6 @@ published: true
 
 # Processo
 
-> Organizado do **mais recente** para o **mais antigo**. Faz uma seleção que torne clara, aprazível e detalhada a evolução do produto e das ideias.
-
 ## 1. Protótipo(s)
 
 ![Protótipo final](attachments/Desm.jpeg)
@@ -48,24 +46,22 @@ Modelos físicos exploratórios, em cartão, espuma, madeira de teste.
 
 ## 6. Esboços e Pranchas-Resumo
 
-Desenhos manuais, 
-pranchas A3 de síntese, 
-exploração de variantes.
-
-![](attachments/placeholder.png)
-
+![](attachments/esboços.jpg)
+![](attachments/Prancha.jpg)
 ## 7. Pesquisa
 
 ### 7.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
 
-![](attachments/placeholder.png)
+![](attachments/formas.jpg)
 
 ### 7.2. Objetos de referencia
 
-Inventário de precedentes, brinquedos análogos, referências históricas.
-
-![](attachments/placeholder.png)
-
+![](attachments/Ref1.jpg)
+![](attachments/Ref2.jpg)![](attachments/Ref3.jpg)
 ## 9. Outros Elementos
 
-Outros materiais relevantes para a preparação do conceito (entrevistas, observação, testes com utilizadores, notas, leituras, inspirações).
+"16 Animali" de Enzo Mari
+(https://www.danesemilano.com/en/productDetails?idProduct=60)
+
+"A Fabula que deu origem ao projeto"
+https://www.youtube.com/watch?v=2DrKmpuKhKE
