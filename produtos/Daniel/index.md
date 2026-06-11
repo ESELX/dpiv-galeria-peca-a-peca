@@ -21,11 +21,9 @@ student_number: "2024262"
   (ver tutorial Pletor.ai nos Recursos da disciplina, em
   /Recursos/AI_exps/). Usa attachments/hero.jpg para o frontmatter.
 -->
-
+![](attachments/LebreT.jpg)
 > Brinquedo modular em madeira inspirado no conto da lebre e da tartaruga.
 
-A página deve tornar **visualmente percetível** a estratégia de resposta ao enunciado.
-Segue a estrutura de **prancha-resumo** + **esquema-base** (C-E-T-F).
 
 ## Conceito
 
@@ -59,8 +57,6 @@ A criança utiliza as peças para construir as figuras da lebre e da tartaruga, 
 **Termos de segurança:**
 O projeto segue os princípios da Diretiva Europeia de Segurança dos Brinquedos (2009/48/CE), utilizando materiais não tóxicos e madeira tratada, com peças dimensionadas para evitar riscos de ingestão. Os encaixes são concebidos para garantir estabilidade e reduzir perigos mecânicos, como arestas cortantes ou fragilidade estrutural. O produto pressupõe ainda ensaios de conformidade, incluindo testes mecânicos e verificação de materiais, bem como a marcação CE e instruções adequadas à idade alvo.
 ## Apresentação
-
-Imagens chave que sintetizam o produto final.
 
 ![](attachments/Prancha.jpg)
 

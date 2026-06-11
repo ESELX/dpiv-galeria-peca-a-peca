@@ -18,18 +18,16 @@ published: true
 
 ## 1. Protótipo(s)
 
-Fotografias em estúdio com fundo branco do(s) protótipo(s) final(is).
-
-![Protótipo final](attachments/placeholder.png)
-![](attachments/placeholder.png)
+![Protótipo final](attachments/Desm.jpeg)
+![](attachments/Compl.jpeg)
 
 ## 2. Processo de Prototipagem
 
 Maquinação CNC, montagem, acabamentos pontuais. 
 
-![](attachments/placeholder.png)
-
-
+![](attachments/IMG_5114.jpeg)
+![](attachments/IMG_5119.jpeg)
+![](attachments/IMG_5118.jpeg)
 ## 3. Protótipos Exploratórios
 
 Testes CNC prévios, ensaios em escala, experiências de juntas/encaixes.
