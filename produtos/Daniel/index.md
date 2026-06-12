@@ -42,7 +42,7 @@ O projeto propõe uma abordagem pedagógica baseada na experimentação e na con
 O brinquedo insere-se no contexto do grupo através da simplificação e síntese formal das personagens da narrativa _A Lebre e a Tartaruga_. O desenvolvimento do projeto parte da análise interpretativa das duas figuras centrais do conto, entendidas não apenas como representações figurativas, mas como pontos de partida para um processo de abstração morfológica.
 ## Tecnologia
 
-Materiais (espécie de madeira), processos de fabrico (CNC, laser, impressão 3D), software paramétrico, ficheiros técnicos.
+Madeira de Bétula / 12 mm de espessura / autodesk fusion 360 / CNC foi usada para o prototipo
 
 - Modelo 3D: <!-- embed Fusion ou link a360.co -->https://a360.co/4wZUHnW
 - Ficheiros: `attachments/`
