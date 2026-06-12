@@ -26,38 +26,30 @@ Maquinação CNC, montagem, acabamentos pontuais.
 ![](attachments/IMG_5114.jpeg)
 ![](attachments/IMG_5119.jpeg)
 ![](attachments/IMG_5118.jpeg)
-## 3. Protótipos Exploratórios
 
-Testes CNC prévios, ensaios em escala, experiências de juntas/encaixes.
 
-![](attachments/placeholder.png)
 
-## 4. Modelos 3D
+## 3. Modelos 3D
 
 Embed do Fusion
 (https://a360.co/4wZUHnW)
 
-## 5. Outros Modelos
 
-Modelos físicos exploratórios, em cartão, espuma, madeira de teste.
-
-![](attachments/placeholder.png)
-
-## 6. Esboços e Pranchas-Resumo
+## 4. Esboços e Pranchas-Resumo
 
 ![](attachments/esboços.jpg)
 ![](attachments/Prancha.jpg)
-## 7. Pesquisa
+## 5. Pesquisa
 
-### 7.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
+### 5.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
 
 ![](attachments/formas.jpg)
 
-### 7.2. Objetos de referencia
+### 5.2. Objetos de referencia
 
 ![](attachments/Ref1.jpg)
 ![](attachments/Ref2.jpg)![](attachments/Ref3.jpg)
-## 9. Outros Elementos
+## 6. Outros Elementos
 
 "16 Animali" de Enzo Mari
 (https://www.danesemilano.com/en/productDetails?idProduct=60)
