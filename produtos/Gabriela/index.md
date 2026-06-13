@@ -62,9 +62,8 @@ A criança utiliza as peças para construir as figuras da lebre e da tartaruga, 
 O projeto segue os princípios da Diretiva Europeia de Segurança dos Brinquedos (2009/48/CE), utilizando materiais não tóxicos e madeira tratada, com peças dimensionadas para evitar riscos de ingestão. Os encaixes são concebidos para garantir estabilidade e reduzir perigos mecânicos, como arestas cortantes ou fragilidade estrutural. O produto pressupõe ainda ensaios de conformidade, incluindo testes mecânicos e verificação de materiais, bem como a marcação CE e instruções adequadas à idade alvo.
 ## Apresentação
 
-![](attachments/Prancha3.png)
-
----
+![](attachments/mockup_jogo1.png)
+![](attachments/mockup_jogo2.png)
 
 ## Processo
 

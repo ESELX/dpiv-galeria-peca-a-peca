@@ -37,8 +37,8 @@ Embed do Fusion
 
 ## 4. Esboços e Pranchas-Resumo
 
-![](attachments/Esboços_medidas.jpeg)![](attachments/Esboços_embalagem.jpeg)
-![](attachments/Prancha.jpg)
+![](attachments/Esboços_medidas.jpeg)![697](attachments/Esboços_embalagem.jpeg)
+![](attachments/Prancha3.png)
 ## 5. Pesquisa
 
 ### 5.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
