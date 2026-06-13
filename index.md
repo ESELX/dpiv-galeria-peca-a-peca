@@ -15,7 +15,7 @@ group_name: Peça a Peça
 group_number: ""
 ---
 
-# Nome do Grupo
+# Peça a Peça
 
 > Substituam este parágrafo por uma frase de apresentação do grupo (uma linha, conceptualmente forte). A imagem de capa acima (`attachments/hero.jpg`) deve ser uma **fotografia de conjunto** dos trabalhos do grupo, mais conceptual, que espelhe a estratégia coletiva.
 
@@ -24,8 +24,8 @@ group_number: ""
 | Número  | Nome             |
 | ------- | ---------------- |
 | 2024262 | Daniel Gonçalves |
-| 20YYYYY | Aluno B          |
-| 20ZZZZZ | Aluno C          |
+| 2024281 | Gabriela Graça   |
+| 2024328 | Matilde Ferreira |
 
 ---
 
@@ -52,10 +52,10 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
 
   <!-- duplicar o bloco abaixo para cada produto do grupo -->
 
-  <a class="gallery-card" href="produtos/_modelo/">
-    <img src="/_modelo/attachments/hero.jpg" alt="" />
-    <h3>Nome do Produto</h3>
-    <p>Nome do Aluno</p>
+  <a class="gallery-card" href="produtos/Gabriela/">
+    <img src="produtos/Gabriela/attachments/hero.jpg" alt="" />
+    <h3>Corrida do Equilíbrio</h3>
+    <p>Gabriela Graça</p>
   </a>
 <a class="gallery-card" href="produtos/Daniel/">
     <img src="produtos/Daniel/attachments/LebreT.jpg" alt="" />
