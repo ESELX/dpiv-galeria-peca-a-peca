@@ -32,7 +32,7 @@ Maquinação CNC, montagem, acabamentos pontuais.
 ## 3. Modelos 3D
 
 Embed do Fusion
-(https://a360.co/4wZUHnW)
+(https://a360.co/3PQSive)
 
 
 ## 4. Esboços e Pranchas-Resumo
