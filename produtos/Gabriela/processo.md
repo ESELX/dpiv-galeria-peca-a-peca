@@ -64,8 +64,8 @@ O projeto evoluiu de forma bastante diferente da ideia original. Começou por se
 ![](attachments/ref.3.jpeg)
 ## 6. Outros Elementos
 
-"16 Animali" de Enzo Mari
-(https://www.danesemilano.com/en/productDetails?idProduct=60)
+"Rock me Archimedes" de Matt Buchanan
+(https://www.loodens.com/pt-pt/jogos/rock-me-archimedes/)
 
 "A Fabula que deu origem ao projeto"
 https://www.youtube.com/watch?v=2DrKmpuKhKE

@@ -20,8 +20,8 @@ student_number: "2024262"
   HERO: idealmente uma pseudo-sessão fotográfica do produto
   (ver tutorial Pletor.ai nos Recursos da disciplina, em
   /Recursos/AI_exps/). Usa attachments/hero.jpg para o frontmatter.
--->
-![](attachments/C.Equlíbrio1.png)
+-->![](attachments/C.Equlíbrio1.png)
+![697](attachments/Peças.png)
 > Brinquedo em madeira inspirado no conto da lebre e da tartaruga focado no equilíbrio e paciência.
 
 
@@ -30,7 +30,7 @@ student_number: "2024262"
 Inspirado na intemporal fábula da Lebre e da Tartaruga, este jogo de madeira desafia os jogadores a encontrar o equilíbrio entre estratégia, paciência e precisão. 
 
 **O que é?** 
-A mecânica deste jogo focasse no clássico jogo do galo com uma base de equilíbrio dinâmica, onde cada jogada influência não só o desenrolar da partida, mas também a estabilidade do tabuleiro, usando peças representativas de lebres e tartarugas. Este jogo tem como objetivo promover a concentração, o pensamento estratégico e a coordenação motora.
+O brinquedo focasse no clássico jogo do galo com uma base de equilíbrio dinâmica, onde cada jogada influência não só o desenrolar da partida, mas também a estabilidade do tabuleiro, usando peças representativas de lebres e tartarugas. Este jogo tem como objetivo promover a concentração, o pensamento estratégico e a coordenação motora.
 
 **Para quem?**  
 Este destina-se essencialmente ao público infantil em contexto educativo, podendo também proporcionar entretenimento ao público interessado em jogos de concentração, lógica e estratégia. O objeto é adapta-se a contextos de aprendizagem formais e informais, criando experiências de raciocínio lógico, planeamento tático e resolução de problemas.
