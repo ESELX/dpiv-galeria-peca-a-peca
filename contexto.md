@@ -3,7 +3,7 @@ title: Contexto de Design
 icon: lucide/book-open
 tags: galeria
 status: not-started
-hero_image: ../attachments/contexto1.png
+hero_image: ../attachments/contexto1.jpeg
 hero_title: Contexto de Design
 hero_subtitle: Enquadramento do grupo
 hero_height: 60vh
@@ -15,7 +15,7 @@ published: true
 # Contexto de Design
 
 
-![](attachments/contexto1.png)
+![](attachments/contexto1.jpeg)
 
 ## 1. Resumo / Abstract
 
