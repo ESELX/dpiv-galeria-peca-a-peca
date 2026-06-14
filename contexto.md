@@ -14,6 +14,7 @@ published: true
 
 # Contexto de Design
 
+
 ![](attachments/Contexto.png)
 
 ## 1. Resumo / Abstract
