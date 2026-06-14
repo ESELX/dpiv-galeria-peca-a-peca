@@ -5,12 +5,12 @@ tags: galeria
 status: not-started
 hero_image: attachments/C.Equlíbrio1.png
 hero_title: Peça a Peça
-hero_subtitle: Daniel Gonçalves · 2025-26
+hero_subtitle: Gabriela Graça · 2025-26
 hero_height: 80vh
 hero_overlay: 0.25
 hero_align: center
 published: true
-student_name: Daniel Gonçalves
+student_name: Gabriela Graça
 student_number: "2024262"
 ---
 
