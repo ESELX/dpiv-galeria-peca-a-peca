@@ -17,7 +17,7 @@ group_number: ""
 
 # Peça a Peça
 
-> Substituam este parágrafo por uma frase de apresentação do grupo (uma linha, conceptualmente forte). A imagem de capa acima (`attachments/hero.jpg`) deve ser uma **fotografia de conjunto** dos trabalhos do grupo, mais conceptual, que espelhe a estratégia coletiva.
+> Os nossos brinquedos inspiram-se no conto da lebre e da tartaruga, procurando transmitir a ideia de que “devagar se vai longe”. Tal como indica o nosso slogan, passo a passo, acreditamos que, através dos nossos brinquedos, o público infantil pode desenvolver capacidades lógicas e de resolução de problemas de forma progressiva e consistente.
 
 ## Elementos do Grupo
 
@@ -33,7 +33,6 @@ group_number: ""
 ![](attachments/placeholder.png)
 > Nesta zona pretenderão mostrar o que relaciona estes produtos que apresentam na galeria - a temática, conceito comum, objectivos comuns, brincadeiras (funções) comuns, entre outros...
 
-(devem colocar imagens no corpo a qq momento, bastará que as arrastem para aqui.)
 
 Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md](contexto.md).
 
@@ -53,7 +52,7 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
   <!-- duplicar o bloco abaixo para cada produto do grupo -->
 
   <a class="gallery-card" href="produtos/Gabriela/">
-    <img src="produtos/Gabriela/attachments/hero.jpg" alt="" />
+    <img src="produtos/Gabriela/attachments/C.Equlíbrio1.png" alt="" />
     <h3>Corrida do Equilíbrio</h3>
     <p>Gabriela Graça</p>
   </a>

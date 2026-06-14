@@ -14,7 +14,7 @@ published: true
 
 # Contexto de Design
 
-Página explicativa do contexto, em concordância com a apresentação produzida em grupo. Componente de **grupo**.
+.... imagem contexto
 
 ## 1. Resumo / Abstract
 
@@ -43,4 +43,4 @@ Catálogo de objetos de partida que o grupo identificou para o redesenho. Para c
 
 Painel de referências visuais e conceptuais que orientam a estratégia do grupo.
 
-![Moodboard](attachments/placeholder.png)
+![Moodboard](attachments/Moodboard.G.png)
