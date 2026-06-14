@@ -30,9 +30,10 @@ group_number: ""
 ---
 
 ## Contexto de Design
-![](attachments/placeholder.png)
-> Nesta zona pretenderão mostrar o que relaciona estes produtos que apresentam na galeria - a temática, conceito comum, objectivos comuns, brincadeiras (funções) comuns, entre outros...
-
+![](attachments/contexto.png)
+> Usando a fábula da Lebre e da Tartaruga como conceito principal, o grupo Peça a Peça desenvolveu uma linha de brinquedos em madeira que têm como objetivo unir o desenvolvimento educacional à diversão, promovendo a criatividade, imaginação e aprendizagem continua através da exploração e da brincadeira livre. 
+> O design visual e a interatividade dos produtos da nossa marca focam-se numa fábula clássica, cativando a imaginação e a curiosidade do público infantil.
+> Estes brinquedos foram criados em madeira como material base para garantir uma produção sustentável.
 
 Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md](contexto.md).
 
