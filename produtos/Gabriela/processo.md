@@ -55,7 +55,8 @@ O projeto evoluiu de forma bastante diferente da ideia original. Começou por se
 
 ### 5.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
 
-![](attachments/forma.png)
+
+![](attachments/Forma.png)
 
 ### 5.2. Objetos de referencia
 
