@@ -3,7 +3,7 @@ title: Processo
 icon: lucide/git-branch
 tags: galeria
 status: not-started
-hero_image: ../attachments/desm.3.png
+hero_image: ../attachments/corte.1_(1).jpeg
 hero_title: Processo
 hero_subtitle: Iterações, modelos, pesquisa
 hero_height: 50vh
