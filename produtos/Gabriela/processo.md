@@ -47,8 +47,8 @@ Desenvolvimento de geometrias, encaixes e organização visual mediante esboços
 
 *** Pranchas resumo - experimentos iniciais
 
-![](attachments/Prancha1.jpeg)
 ![](attachments/Prancha2.jpeg)
+![](attachments/Prancha1.jpeg)
 
 O projeto evoluiu de forma bastante diferente da ideia original. Começou por ser um simples boneco de peças de encaixe, mas rapidamente passou para uma proposta mais interativa, embora com dimensões excessivas. Finalmente, encontrámos um consenso com o conceito da marca. Usando como base a fábula da Lebre e da Tartaruga. Isto ajudou no desenvolvimento do próprio brinquedo, surgindo assim a "Corrida de Equilíbrio".
 ## 5. Pesquisa
