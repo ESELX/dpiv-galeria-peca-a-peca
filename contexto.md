@@ -48,7 +48,6 @@ O Holzdinosaurier Bausatz é um brinquedo de construção em madeira composto po
 A principal característica valorizada foi a forma como diferentes peças planas se articulam para criar um volume tridimensional reconhecível, promovendo simultaneamente a exploração espacial, a coordenação motora e a compreensão das relações entre as partes e o todo. O sistema construtivo do brinquedo serviu de inspiração para o desenvolvimento de soluções de encaixe aplicadas ao projeto, demonstrando como elementos simples podem gerar uma experiência lúdica e educativa através da montagem e da interação física.
 
 
-
 ![](attachments/Montessori.jpeg)
 
 - **Objeto 2** — Montessori
@@ -57,13 +56,16 @@ Para o desenvolvimento deste projeto, foi escolhido como referência o Montessor
 O Wooden Rabbit Puzzle insere-se nesta tipologia, apresentando uma representação simplificada de um animal através de formas geométricas básicas que permitem à criança reconhecer a figura e, simultaneamente, desenvolver competências motoras, cognitivas e espaciais.
 A origem deste brinquedo está, assim, associada à necessidade de criar objetos pedagógicos que incentivem a coordenação motora fina, a perceção tátil e a capacidade de resolução de problemas, valorizando a aprendizagem através da experiência prática.
 
-A escolha do Montessori Wooden Rabbit Puzzle como referência para o redesenho do meu brinquedo deve-se principalmente à sua abordagem minimalista e à forma como simplifica a anatomia de um animal em volumes essenciais. Esta característica relaciona-se diretamente com o conceito do meu projeto, uma vez que também procuro representar uma lebre através de uma linguagem formal simples, geométrica e facilmente reconhecível.
-Além disso, este brinquedo foi escolhido por demonstrar um equilíbrio entre função lúdica, valor educativo e qualidade estética. Esta combinação tornou-se particularmente relevante para o desenvolvimento do meu projeto, pois permitiu analisar de que forma um brinquedo pode ir além da sua função recreativa e assumir também um papel pedagógico e de design.
+A escolha do Montessori Wooden Rabbit Puzzle como referência para o redesenho do brinquedo "A Lebre" deve-se principalmente à sua abordagem minimalista e à forma como simplifica a anatomia de um animal em volumes essenciais. Esta característica relaciona-se diretamente o seu conceito, uma vez que também procura representar uma lebre através de uma linguagem formal simples, geométrica e facilmente reconhecível.
+Além disso, este brinquedo foi escolhido por demonstrar um equilíbrio entre função lúdica, valor educativo e qualidade estética. Esta combinação tornou-se particularmente relevante para o desenvolvimento do projeto, pois permitiu analisar de que forma um brinquedo pode ir além da sua função recreativa e assumir também um papel pedagógico e de design.
+
 
 ![](produtos/Gabriela/attachments/ref.1.jpeg)
 - **Objeto 3** — Rock Me Archimedes
 
-O brinquedo de referência escolhido é o Rock Me Archimedes, um jogo de equilíbrio e estratégia em madeira inspirado nos princípios físicos estudados por Arquimedes, matemático, físico e inventor da Grécia Antiga. A origem conceptual deste brinquedo está diretamente relacionada com a lei da alavanca, formulada por Arquimedes, que demonstrou como a distribuição de peso em torno de um ponto de apoio influencia o equilíbrio de uma estrutura.
+O brinquedo de referência escolhido é o Rock Me Archimedes criado por Matt Buchanan, um jogo de equilíbrio e estratégia em madeira inspirado nos princípios físicos estudados por Arquimedes, matemático, físico e inventor da Grécia Antiga. A origem conceptual deste brinquedo está diretamente relacionada com a lei da alavanca, formulada por Arquimedes, que demonstrou como a distribuição de peso em torno de um ponto de apoio influência o equilíbrio de uma estrutura.
+
+Esta referência foi escolhida pela forma como transforma o equilíbrio num elemento central da experiência de jogo, fazendo com que a componente física tenha um papel ativo na tomada de decisões do jogador. A característica mais valorizada foi a relação entre a colocação das peças e a estabilidade do tabuleiro, onde cada ação pode alterar o comportamento da estrutura e influenciar as jogadas seguintes. Esta abordagem revelou-se particularmente relevante para o desenvolvimento do projeto, uma vez que permitiu integrar simultaneamente estratégia, coordenação motora e raciocínio lógico. Além disso, reforça a ligação conceptual ao conto da Tartaruga e da Lebre, através da ideia de que decisões mais ponderadas e equilibradas podem ser mais eficazes do que ações rápidas e impulsivas.
 
 ### 2.2. Moodboard
 
