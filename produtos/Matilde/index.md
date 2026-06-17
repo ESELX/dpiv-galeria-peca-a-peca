@@ -28,37 +28,40 @@ student_number: "2024328"
 ## Conceito
 
 **O que é?** 
-A Lebre é um brinquedo feito de madeira inspirado na fábula "A Lebre e a Tartaruga". O brinquedo tem como principal característica o movimento das patas e orelhas e é todo concebido a partir de resíduos de madeira reaproveitados.
+O meu brinquedo consiste numa lebre em madeira, desenvolvida a partir do reaproveitamento de resíduos de madeira de bétula, promovendo uma abordagem sustentável no processo de conceção e produção. A escolha deste material deve-se às suas características de resistência, durabilidade e acabamento natural, que conferem ao brinquedo uma estética simples, orgânica e agradável ao toque.
+A lebre apresenta uma linguagem formal minimalista, sendo composta por formas geométricas simplificadas que permitem uma identificação imediata da figura animal. Um dos seus principais elementos diferenciadores é a presença de partes móveis, nomeadamente as patas e as orelhas, que podem ser manipuladas pela criança. Este movimento acrescenta uma componente interativa ao brinquedo, tornando a experiência de utilização mais dinâmica e estimulante.
 
 **Para quem?**  
-Este produto, destinado a crianças a partir dos 5 anos, tem como objetivo desenvolver a imaginação e aprendizagem autónoma do público infantil
+Este brinquedo destina-se a crianças com idade superior a 5 anos, uma fase do desenvolvimento em que a capacidade motora, cognitiva e criativa se encontra em constante evolução. 
 
 **Porquê?**  
-O projeto foi criado com o objetivo de incentivar o desenvolvimento do pensamento e da concentração. Utiliza a madeira como material base para garantir uma produção sustentável, dando assim uma nova vida aos resíduos industriais.
+A criação deste brinquedo surge da intenção de desenvolver um objeto lúdico que contribua positivamente para o desenvolvimento infantil, conciliando funcionalidade, valor pedagógico e consciência ambiental. O brincar assume um papel fundamental no crescimento da criança, sendo através dele que são desenvolvidas competências cognitivas, motoras, emocionais e sociais essenciais.
+Para além da vertente educativa, este projeto procura responder à necessidade crescente de práticas mais sustentáveis no design de produto. A utilização de resíduos de madeira de bétula reaproveitados permite reduzir desperdícios e dar uma nova função a materiais que, de outra forma, poderiam ser descartados. Desta forma, o brinquedo não só promove o desenvolvimento da criança, como também reflete uma preocupação com a sustentabilidade e com a valorização responsável dos recursos naturais.
 
 
 ![](attachments/Mood.png)
 
 ## Enquadramento
 
-Este jogo enquadra-se num contexto de grupo a partir da fábula da Lebre e da Tartaruga, utilizando a seu favor a competição inerente à narrativa. O foco principal desenrola-se em torno da moral "devagar se vai ao longe", onde a adoção de uma postura calma e estratégica possibilita a vitória.
+O presente projeto surge a partir da interpretação do conto tradicional **“A Lebre e a Tartaruga”**, uma fábula amplamente conhecida e transmitida ao longo de gerações. Partindo desta narrativa, o desenvolvimento do brinquedo procurou traduzir visualmente e conceptualmente a figura da lebre, transformando-a num objeto lúdico capaz de comunicar não apenas a sua identidade animal, mas também os valores simbólicos associados à personagem. 
+A ligação ao conto permite que o brinquedo ultrapasse a sua função meramente recreativa, tornando-se também um veículo de transmissão de valores educativos, incentivando a reflexão sobre temas como persistência, humildade e superação.
 ## Tecnologia
 
 O produto foi fabricado a partir da modelação no Autodesk Fusion 360, passando então para o processo de corte em CNC. O produto tem como objetivo ser fabricado em Madeira de Bétula de espessura 12mm.
 
-- Modelo 3D: <!-- embed Fusion ou link a360.co -->https://a360.co/3PQSive
+- Modelo 3D: <!-- embed Fusion ou link a360.co -->https://a360.co/4fSzLt6
 
 ## Função
 
-A "Corrida de Equilíbrio" tem como função desenvolver o raciocínio logico e objetivo dos mais novos, ajudando a desenvolver a iniciativa de resolução de problemas e a calma pelo pensamento estratégico.
+O brinquedo foi concebido com uma abordagem minimalista e sustentável, privilegiando formas simples e materiais naturais, de forma a criar uma peça que estimule a interação, a imaginação e o desenvolvimento infantil.
 
 **Como brincar:** 
-A criança já tendo o tabuleiro montado pode então começar a jogar como um jogo do galo normal, sendo que são três grelhas, fica-se a joga-las a todas em simultâneo. Ao finalizar as peças cada jogador poder remover uma peça já presente no tabuleiro para outra abertura podendo estender o jogo, sendo que as peças circulares apenas se podem mover pelas casas nas perpendiculares, e as peças quadradas só podem ser movimentadas na diagonal, isto dificultando o jogo um pouco.
+A interação com este brinquedo baseia-se na manipulação física das suas partes móveis, proporcionando uma experiência lúdica dinâmica e intuitiva. A criança pode segurar, mover e explorar livremente a lebre, interagindo com as patas e as orelhas articuladas, que permitem alterar a sua posição e simular diferentes movimentos e posturas do animal.
+O movimento das patas possibilita recriar ações associadas à lebre, como saltar, correr ou permanecer em repouso, enquanto a mobilidade das orelhas acrescenta expressividade à figura, permitindo representar diferentes estados de atenção ou emoção. Esta característica torna a brincadeira mais envolvente, incentivando a observação e a experimentação.
 
 ## Apresentação
 
-![](attachments/mockup_jogo1.png)
-![](attachments/mockup_jogo2.png)
+![](attachments/BrincarALebre.png)
 
 ## Processo
 
