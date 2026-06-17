@@ -3,7 +3,7 @@ title: A Lebre
 icon: lucide/box
 tags: galeria
 status: not-started
-hero_image: attachments/C.Equlíbrio1.png
+hero_image: attachments/ALebre.jpg
 hero_title: Peça a Peça
 hero_subtitle: Matilde Ferreira · 2025-26
 hero_height: 80vh
@@ -21,19 +21,17 @@ student_number: "2024328"
   (ver tutorial Pletor.ai nos Recursos da disciplina, em
   /Recursos/AI_exps/). Usa attachments/hero.jpg para o frontmatter.
 -->
-![](attachments/C.Equlíbrio1.png)
+![](attachments/ALebre.jpg)
 > Brinquedo com movimento em madeira inspirado na lebre do conto "A Lebre e a Tartaruga".
 
 
 ## Conceito
 
- A Lebre é um brinquedo feito de madeira inspirado na fábula "A Lebre e a Tartaruga". O brinquedo tem como principal característica o movimento das patas e orelhas.
-
 **O que é?** 
-O brinquedo foca-se no clássico jogo do galo com uma base de equilíbrio dinâmica, onde cada jogada influência não só o desenrolar da partida, mas também a estabilidade do tabuleiro, usando peças representativas de lebres e tartarugas. Este jogo tem como objetivo promover a concentração, o pensamento estratégico e a coordenação motora.
+A Lebre é um brinquedo feito de madeira inspirado na fábula "A Lebre e a Tartaruga". O brinquedo tem como principal característica o movimento das patas e orelhas e é todo concebido a partir de resíduos de madeira reaproveitados.
 
 **Para quem?**  
-Este destina-se essencialmente ao público infantil em contexto educativo, podendo também proporcionar entretenimento ao público interessado em jogos de concentração, lógica e estratégia. O objeto é adapta-se a contextos de aprendizagem formais e informais, criando experiências de raciocínio lógico, planeamento tático e resolução de problemas.
+Este produto, destinado a crianças a partir dos 5 anos, tem como objetivo desenvolver a imaginação e aprendizagem autónoma do público infantil
 
 **Porquê?**  
 O projeto foi criado com o objetivo de incentivar o desenvolvimento do pensamento e da concentração. Utiliza a madeira como material base para garantir uma produção sustentável, dando assim uma nova vida aos resíduos industriais.

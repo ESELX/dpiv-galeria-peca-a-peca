@@ -39,15 +39,27 @@ To bring this concept to life, the project uses wood as its base material to ens
 
 ### 2.1. Recolha de Objetos a Redesenhar/Remisturar
 
-Catálogo de objetos de partida que o grupo identificou para o redesenho. Para cada objeto: imagem, origem, motivo da escolha.
+![](attachments/holzdinosaurier.jpeg)
 
-![](attachments/ref.1.jpeg)
+- **Objeto 1** — Holzdinosaurier Bausatz
 
-- **Objeto 1** — origem / autoria / razão da escolha
-- **Objeto 2** — ...
+O Holzdinosaurier Bausatz é um brinquedo de construção em madeira composto por várias peças de encaixe que, quando montadas, formam a figura tridimensional de um dinossauro. O objeto foi selecionado como referência devido à sua abordagem construtiva, baseada na montagem de componentes independentes através de sistemas simples de encaixe.
+
+A principal característica valorizada foi a forma como diferentes peças planas se articulam para criar um volume tridimensional reconhecível, promovendo simultaneamente a exploração espacial, a coordenação motora e a compreensão das relações entre as partes e o todo. O sistema construtivo do brinquedo serviu de inspiração para o desenvolvimento de soluções de encaixe aplicadas ao projeto, demonstrando como elementos simples podem gerar uma experiência lúdica e educativa através da montagem e da interação física.
+
+
+
+![](attachments/Montessori.jpeg)
+
+- **Objeto 2** — Montessori
+
+Para o desenvolvimento deste projeto, foi escolhido como referência o Montessori Wooden Rabbit Puzzle, um brinquedo educativo em madeira inspirado na pedagogia Montessori, desenvolvida no início do século XX por Maria Montessori. Este tipo de brinquedo surgiu no contexto do método Montessori, criado com o objetivo de promover a aprendizagem autónoma da criança através da exploração sensorial e da interação direta com objetos físicos.
+Os brinquedos Montessori distinguem-se pela utilização de materiais naturais, especialmente a madeira, e pela sua linguagem formal simples, sem elementos visuais excessivos ou decorativos. O Wooden Rabbit Puzzle insere-se nesta tipologia, apresentando uma representação simplificada de um animal através de formas geométricas básicas que permitem à criança reconhecer a figura e, simultaneamente, desenvolver competências motoras, cognitivas e espaciais.
+A origem deste brinquedo está, assim, associada à necessidade de criar objetos pedagógicos que incentivem a coordenação motora fina, a perceção tátil e a capacidade de resolução de problemas, valorizando a aprendizagem através da experiência prática.
+
+A escolha do **Montessori Wooden Rabbit Puzzle** como referência para o redesenho do meu brinquedo deve-se principalmente à sua abordagem minimalista e à forma como simplifica a anatomia de um animal em volumes essenciais. Esta característica relaciona-se diretamente com o conceito do meu projeto, uma vez que também procuro representar uma lebre através de uma linguagem formal simples, geométrica e facilmente reconhecível.
+Além disso, este brinquedo foi escolhido por demonstrar um equilíbrio entre função lúdica, valor educativo e qualidade estética. Esta combinação tornou-se particularmente relevante para o desenvolvimento do meu projeto, pois permitiu analisar de que forma um brinquedo pode ir além da sua função recreativa e assumir também um papel pedagógico e de design.
 
 ### 2.2. Moodboard
-
-Painel de referências visuais e conceptuais que orientam a estratégia do grupo.
 
 ![Moodboard](attachments/Moodboard.G.png)

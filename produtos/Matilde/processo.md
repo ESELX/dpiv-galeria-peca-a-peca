@@ -40,8 +40,5 @@ https://a360.co/3PQSive
 ![](attachments/ref.3.jpeg)
 ## 4. Outros Elementos
 
-"Rock me Archimedes" de Matt Buchanan
-(https://www.loodens.com/pt-pt/jogos/rock-me-archimedes/)
-
 "A Fabula que deu origem ao projeto"
 https://www.youtube.com/watch?v=2DrKmpuKhKE
