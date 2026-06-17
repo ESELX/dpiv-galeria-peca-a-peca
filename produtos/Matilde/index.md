@@ -20,14 +20,14 @@ student_number: "2024328"
   HERO: idealmente uma pseudo-sessão fotográfica do produto
   (ver tutorial Pletor.ai nos Recursos da disciplina, em
   /Recursos/AI_exps/). Usa attachments/hero.jpg para o frontmatter.
--->![](attachments/C.Equlíbrio1.png)
-![697](attachments/Peças.png)
-> Brinquedo em madeira inspirado no conto da lebre e da tartaruga focado no equilíbrio e paciência.
+-->
+![](attachments/C.Equlíbrio1.png)
+> Brinquedo com movimento em madeira inspirado na lebre do conto "A Lebre e a Tartaruga".
 
 
 ## Conceito
 
-Inspirado na intemporal fábula da Lebre e da Tartaruga, este jogo de madeira desafia os jogadores a encontrar o equilíbrio entre estratégia, paciência e precisão. 
+ A Lebre é um brinquedo feito de madeira inspirado na fábula "A Lebre e a Tartaruga". O brinquedo tem como principal característica o movimento das patas e orelhas.
 
 **O que é?** 
 O brinquedo foca-se no clássico jogo do galo com uma base de equilíbrio dinâmica, onde cada jogada influência não só o desenrolar da partida, mas também a estabilidade do tabuleiro, usando peças representativas de lebres e tartarugas. Este jogo tem como objetivo promover a concentração, o pensamento estratégico e a coordenação motora.
@@ -40,8 +40,6 @@ O projeto foi criado com o objetivo de incentivar o desenvolvimento do pensament
 
 
 ![](attachments/Mood.png)
-
-Moodboard individual
 
 ## Enquadramento
 

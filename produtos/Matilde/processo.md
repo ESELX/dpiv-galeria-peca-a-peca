@@ -21,7 +21,7 @@ https://a360.co/3PQSive
 
 ## 2. Esboços e Pranchas-Resumo
 
-Desenvolvimento de geometrias, encaixes e organização visual mediante esboços e pranchas-resumo.
+
 
 ![](attachments/esboços.jpeg)
 ![](attachments/Prancha3.png)
