@@ -22,8 +22,7 @@ student_number: "2024328"
   /Recursos/AI_exps/). Usa attachments/hero.jpg para o frontmatter.
 -->
 ![](attachments/ALebre.jpg)
-> Brinquedo com movimento em madeira inspirado na lebre do conto "A Lebre e a Tartaruga".
-
+> Brinquedo em madeira com movimento inspirado na lebre do conto "A Lebre e a Tartaruga".
 
 ## Conceito
 
@@ -39,7 +38,6 @@ A criação deste brinquedo surge da intenção de desenvolver um objeto lúdico
 Para além da vertente educativa, este projeto procura responder à necessidade crescente de práticas mais sustentáveis no design de produto. A utilização de resíduos de madeira de bétula reaproveitados permite reduzir desperdícios e dar uma nova função a materiais que, de outra forma, poderiam ser descartados. Desta forma, o brinquedo não só promove o desenvolvimento da criança, como também reflete uma preocupação com a sustentabilidade e com a valorização responsável dos recursos naturais.
 
 
-![](attachments/Mood.png)
 
 ## Enquadramento
 
@@ -47,7 +45,7 @@ O presente projeto surge a partir da interpretação do conto tradicional **“A
 A ligação ao conto permite que o brinquedo ultrapasse a sua função meramente recreativa, tornando-se também um veículo de transmissão de valores educativos, incentivando a reflexão sobre temas como persistência, humildade e superação.
 ## Tecnologia
 
-O produto foi fabricado a partir da modelação no Autodesk Fusion 360, passando então para o processo de corte em CNC. O produto tem como objetivo ser fabricado em Madeira de Bétula de espessura 12mm.
+Madeira de Bétula (12mm de espessura)/ CNC/ Autodesk Fusion 360
 
 - Modelo 3D: <!-- embed Fusion ou link a360.co -->https://a360.co/4fSzLt6
 

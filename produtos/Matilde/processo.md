@@ -16,28 +16,28 @@ published: true
 
 ## 1. Modelos 3D
 
-https://a360.co/3PQSive
+https://a360.co/4fSzLt6
 
 
 ## 2. Esboços e Pranchas-Resumo
 
 
 
-![](attachments/esboços.jpeg)
-![](attachments/Prancha3.png)
+
+
 
 ## 3. Pesquisa
 
 ### 3.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
 
 
-![](attachments/Forma.png)
+
 
 ### 3.2. Objetos de referencia
 
-![](attachments/ref.1.jpeg)
-![](attachments/ref.4.jpeg)
-![](attachments/ref.3.jpeg)
+
+
+
 ## 4. Outros Elementos
 
 "A Fabula que deu origem ao projeto"

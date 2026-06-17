@@ -60,6 +60,9 @@ A origem deste brinquedo está, assim, associada à necessidade de criar objetos
 A escolha do Montessori Wooden Rabbit Puzzle como referência para o redesenho do meu brinquedo deve-se principalmente à sua abordagem minimalista e à forma como simplifica a anatomia de um animal em volumes essenciais. Esta característica relaciona-se diretamente com o conceito do meu projeto, uma vez que também procuro representar uma lebre através de uma linguagem formal simples, geométrica e facilmente reconhecível.
 Além disso, este brinquedo foi escolhido por demonstrar um equilíbrio entre função lúdica, valor educativo e qualidade estética. Esta combinação tornou-se particularmente relevante para o desenvolvimento do meu projeto, pois permitiu analisar de que forma um brinquedo pode ir além da sua função recreativa e assumir também um papel pedagógico e de design.
 
+
+- **Objeto 3**
+
 ### 2.2. Moodboard
 
 ![Moodboard](attachments/Moodboard.G.png)
