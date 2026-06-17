@@ -41,7 +41,7 @@ To bring this concept to life, the project uses wood as its base material to ens
 
 Catálogo de objetos de partida que o grupo identificou para o redesenho. Para cada objeto: imagem, origem, motivo da escolha.
 
-![Objeto 1](attachments/placeholder.png)
+![](attachments/ref.1.jpeg)
 
 - **Objeto 1** — origem / autoria / razão da escolha
 - **Objeto 2** — ...

@@ -1,20 +1,20 @@
 ---
-title: Nome do Produto
+title: A Lebre
 icon: lucide/box
 tags: galeria
 status: not-started
 hero_image: attachments/C.Equlíbrio1.png
 hero_title: Peça a Peça
-hero_subtitle: Gabriela Graça · 2025-26
+hero_subtitle: Matilde Ferreira · 2025-26
 hero_height: 80vh
 hero_overlay: 0.25
 hero_align: center
 published: true
-student_name: Gabriela Graça
-student_number: "2024262"
+student_name: Matilde Ferreira
+student_number: "2024328"
 ---
 
-# Corrida de Equilíbrio
+# A Lebre
 
 <!--
   HERO: idealmente uma pseudo-sessão fotográfica do produto

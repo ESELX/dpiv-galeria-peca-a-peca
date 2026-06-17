@@ -11,7 +11,7 @@ hero_overlay: 0.25
 hero_align: center
 published: true
 student_name: Gabriela Graça
-student_number: "2024262"
+student_number: "2024281"
 ---
 
 # Corrida de Equilíbrio
