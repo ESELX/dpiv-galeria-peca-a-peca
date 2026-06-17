@@ -21,21 +21,34 @@ https://a360.co/4fSzLt6
 
 ## 2. Esboços e Pranchas-Resumo
 
+![](attachments/esboços.jpeg)
 
 
 
+![](attachments/esboços2.jpeg)
 
+
+
+![](attachments/PranchaResumos.jpg)
 
 ## 3. Pesquisa
 
 ### 3.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
 
+![](attachments/forma1.jpg)
 
-
-
+![](attachments/forma2.jpg)
 ### 3.2. Objetos de referencia
 
 
+![](attachments/referencia1.jpeg)
+
+
+
+![](../../attachments/Montessori.jpeg)
+
+
+![](attachments/referencia2.jpeg)
 
 
 ## 4. Outros Elementos

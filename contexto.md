@@ -54,14 +54,16 @@ A principal característica valorizada foi a forma como diferentes peças planas
 - **Objeto 2** — Montessori
 
 Para o desenvolvimento deste projeto, foi escolhido como referência o Montessori Wooden Rabbit Puzzle, um brinquedo educativo em madeira inspirado na pedagogia Montessori, desenvolvida no início do século XX por Maria Montessori. Este tipo de brinquedo surgiu no contexto do método Montessori, criado com o objetivo de promover a aprendizagem autónoma da criança através da exploração sensorial e da interação direta com objetos físicos.
-Os brinquedos Montessori distinguem-se pela utilização de materiais naturais, especialmente a madeira, e pela sua linguagem formal simples, sem elementos visuais excessivos ou decorativos. O Wooden Rabbit Puzzle insere-se nesta tipologia, apresentando uma representação simplificada de um animal através de formas geométricas básicas que permitem à criança reconhecer a figura e, simultaneamente, desenvolver competências motoras, cognitivas e espaciais.
+O Wooden Rabbit Puzzle insere-se nesta tipologia, apresentando uma representação simplificada de um animal através de formas geométricas básicas que permitem à criança reconhecer a figura e, simultaneamente, desenvolver competências motoras, cognitivas e espaciais.
 A origem deste brinquedo está, assim, associada à necessidade de criar objetos pedagógicos que incentivem a coordenação motora fina, a perceção tátil e a capacidade de resolução de problemas, valorizando a aprendizagem através da experiência prática.
 
 A escolha do Montessori Wooden Rabbit Puzzle como referência para o redesenho do meu brinquedo deve-se principalmente à sua abordagem minimalista e à forma como simplifica a anatomia de um animal em volumes essenciais. Esta característica relaciona-se diretamente com o conceito do meu projeto, uma vez que também procuro representar uma lebre através de uma linguagem formal simples, geométrica e facilmente reconhecível.
 Além disso, este brinquedo foi escolhido por demonstrar um equilíbrio entre função lúdica, valor educativo e qualidade estética. Esta combinação tornou-se particularmente relevante para o desenvolvimento do meu projeto, pois permitiu analisar de que forma um brinquedo pode ir além da sua função recreativa e assumir também um papel pedagógico e de design.
 
+![](produtos/Gabriela/attachments/ref.1.jpeg)
+- **Objeto 3** — Rock Me Archimedes
 
-- **Objeto 3**
+O brinquedo de referência escolhido é o Rock Me Archimedes, um jogo de equilíbrio e estratégia em madeira inspirado nos princípios físicos estudados por Arquimedes, matemático, físico e inventor da Grécia Antiga. A origem conceptual deste brinquedo está diretamente relacionada com a lei da alavanca, formulada por Arquimedes, que demonstrou como a distribuição de peso em torno de um ponto de apoio influencia o equilíbrio de uma estrutura.
 
 ### 2.2. Moodboard
 

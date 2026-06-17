@@ -37,7 +37,7 @@ Este brinquedo destina-se a crianças com idade superior a 5 anos, uma fase do d
 A criação deste brinquedo surge da intenção de desenvolver um objeto lúdico que contribua positivamente para o desenvolvimento infantil, conciliando funcionalidade, valor pedagógico e consciência ambiental. O brincar assume um papel fundamental no crescimento da criança, sendo através dele que são desenvolvidas competências cognitivas, motoras, emocionais e sociais essenciais.
 Para além da vertente educativa, este projeto procura responder à necessidade crescente de práticas mais sustentáveis no design de produto. A utilização de resíduos de madeira de bétula reaproveitados permite reduzir desperdícios e dar uma nova função a materiais que, de outra forma, poderiam ser descartados. Desta forma, o brinquedo não só promove o desenvolvimento da criança, como também reflete uma preocupação com a sustentabilidade e com a valorização responsável dos recursos naturais.
 
-
+![](attachments/MoodboardM.jpg)
 
 ## Enquadramento
 
