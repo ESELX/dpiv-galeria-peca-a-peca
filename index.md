@@ -65,7 +65,7 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
     <p>Daniel Gonçalves</p>
   </a>
   <a class="gallery-card" href="produtos/Matilde/">
-    <img src="produtos/Matilde/attachments/hero.jpg" alt="" />
+    <img src="produtos/Matilde/attachments/ALebre.jpg" alt="" />
     <h3>A Lebre</h3>
     <p>Matilde Ferreira</p>
   </a>
