@@ -61,6 +61,7 @@ Além disso, este brinquedo foi escolhido por demonstrar um equilíbrio entre fu
 
 
 ![](produtos/Gabriela/attachments/ref.1.jpeg)
+
 - **Objeto 3** — Rock Me Archimedes
 
 O brinquedo de referência escolhido é o Rock Me Archimedes criado por Matt Buchanan, um jogo de equilíbrio e estratégia em madeira inspirado nos princípios físicos estudados por Arquimedes, matemático, físico e inventor da Grécia Antiga. A origem conceptual deste brinquedo está diretamente relacionada com a lei da alavanca, formulada por Arquimedes, que demonstrou como a distribuição de peso em torno de um ponto de apoio influência o equilíbrio de uma estrutura.
